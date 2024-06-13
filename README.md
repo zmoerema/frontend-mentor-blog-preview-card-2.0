@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/)
-- Live Site URL: [GitHub Pages](https://zmoerema.github.io/)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/blog-preview-card-Huyi6hwTAa)
+- Live Site URL: [GitHub Pages](https://zmoerema.github.io/frontend-mentor-blog-preview-card-2.0/)
 
 ## My process
 
