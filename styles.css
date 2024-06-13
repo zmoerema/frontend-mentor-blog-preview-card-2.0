@@ -85,6 +85,7 @@ body {
 
 .card_title:hover {
     color: var(--Yellow);
+    cursor: pointer;
 }
 
 .card_summary {
